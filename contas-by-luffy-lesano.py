@@ -1,4 +1,4 @@
-# Importar lib:
+# Importar lib: aq78
 from tqdm import tqdm, trange
 from time import sleep
 import amino
